@@ -1,0 +1,17 @@
+@import "alegreya";
+@import "ubuntu";
+
+#{headers()} {
+    font-family: Alegreya, serif;
+}
+
+body {
+    font-family: Ubuntu, sans-serif;
+}
+
+h1 + p {
+    font-family: Alegreya, serif;
+}
+
+@import "icons-sprite";
+

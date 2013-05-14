@@ -1,0 +1,22 @@
+@import "compass";
+
+//@import "icons/*.png";
+.actions {
+    @include horizontal-list;
+    li {
+        width: 32px;
+        height: 32px;
+        background-repeat: no-repeat;
+
+    }
+    $icons: creativecommons email github linkedin twitter website;
+
+    @each $icon in $icons {
+        .#{$icon} {
+            background-image: url(../img/icons/#{$icon}.png);
+            //@include icons-sprite(creativecommons);
+        }
+    }
+
+}
+

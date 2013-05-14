@@ -1,0 +1,19 @@
+@import "compass";
+//@import url("http://fonts.googleapis.com/css?family=Ubuntu:400,400italic,700,700italic|Alegreya:400,400italic,700,700italic");
+@import "alegreya-inline";
+@import "ubuntu-inline";
+
+#{headers()} {
+    font-family: Alegreya, serif;
+}
+
+body {
+    font-family: Ubuntu, sans-serif;
+}
+
+h1 + p {
+    font-family: Alegreya, serif;
+}
+
+@import "icons-inline";
+

@@ -1,0 +1,55 @@
+Statistics:
+6 icons
+2 font families (regular, italic, bold, bold-italic)
+
+1) No minifying, local sources
+Icons: 11.1 KB
+Fonts: 833.2 KB
+CSS: 18.9 KB
+Calls:
+
+2) Minified CSS
+Icons: 11.1 KB
+Fonts: 833.2 KB
+CSS: 9.1 KB
+
+3) Sprites, Minified CSS
+Icons: 11.1 KB
+Fonts: 833.2 KB
+CSS: 9.1 KB
+
+4) Google fonts, minified CSS
+Icons: 11.1 KB
+Fonts: -
+CSS: 6.2 KB
+
+5) Google fonts, sprites, minified CSS
+Icons: 11.1 KB
+Fonts: -
+CSS: 6.2 KB
+
+6) Inline icons, minified CSS
+Icons: -
+Fonts: 833.2 KB
+CSS: 23.8 KB
+
+7) Google fonts, inline icons, minified CSS
+Icons: -
+Fonts: -
+CSS: 23.8 KB
+
+8) Inline fonts, minified CSS
+Icons: 11.1 KB
+Fonts: -
+CSS: 871 KB
+
+9) Inline fonts, inline icons, minified CSS
+Icons: -
+Fonts: -
+CSS: 885.7 KB
+
+10) Inline fonts, sprite, minified CSS
+Icons: 11.1
+Fonts: -
+CSS: 871 KB
+
